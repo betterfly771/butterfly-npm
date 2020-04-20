@@ -1,5 +1,3 @@
-'use strict';
-
 var sum = function (a, b) {
     return a + b;
 };
@@ -14,5 +12,5 @@ var Butterfly = (function () {
 }());
 console.log(111);
 
-module.exports = Butterfly;
-//# sourceMappingURL=bundle.cjs.js.map
+export default Butterfly;
+//# sourceMappingURL=index.js.map

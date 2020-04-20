@@ -11,7 +11,7 @@ export default {
         },
         {
             format: "es",
-            file: "dist/bundle.esm.js",
+            file: "dist/index.js",
             sourcemap: true
         }
     ],
