@@ -12,7 +12,7 @@ class Butterfly {
     name: string = "yueqi"
 
     test(): number {
-        return sum(1, 2)
+        return sum(3, 4)
     }
 }
 

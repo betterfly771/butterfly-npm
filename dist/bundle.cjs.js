@@ -8,7 +8,7 @@ var Butterfly = (function () {
         this.name = "yueqi";
     }
     Butterfly.prototype.test = function () {
-        return sum(1, 2);
+        return sum(3, 4);
     };
     return Butterfly;
 }());

@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c",
-    "start": "sudo npm link && rollup -c -w",
+    "start": "rollup -c -w",
     "dev": "rollup -c -w",
     "docs": "typedoc --out docs src"
   },
